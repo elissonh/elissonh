@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**elissonh/elissonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Desenvolvedor Backend com foco em **Java** e **Spring Boot**, desenvolvendo APIs REST, microsserviços e integrações entre sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Base em **Engenharia de Dados**, utilizando **Python**, **SQL** e serviços em nuvem para construção de pipelines de dados.
+
+🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPR.
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens e Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,linux" />
+</p>
