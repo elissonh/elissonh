@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Backend com foco em **Java** e **Spring Boot**, desenvolvendo APIs REST, microsserviços e integrações entre sistemas.
+Desenvolvedor Backend com foco em **Java** e **Spring**, desenvolvendo APIs REST, microsserviços e integrações entre sistemas.
 
 Base em **Engenharia de Dados**, utilizando **Python**, **SQL** e serviços em nuvem para construção de pipelines de dados.
 
