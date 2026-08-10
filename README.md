@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full-Stack com foco em React, **Java** e **Spring**, desenvolvendo APIs REST, microsserviços e integrações entre sistemas.
+Desenvolvedor Full-Stack com foco em **React**, **Java** e **Spring**, desenvolvendo APIs REST, microsserviços e integrações entre sistemas.
 
 Base em **Engenharia de Dados**, utilizando **Python**, **SQL** e serviços em nuvem para construção de pipelines de dados.
 
